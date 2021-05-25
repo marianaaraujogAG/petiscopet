@@ -5,8 +5,8 @@
 #include "RTClib.h"
 
 // variaveis de conexão wifi
-const char* ssid = "Indisponivel";//"pousada patio";
-const char* password = "naotemsenha";//"good0003";
+const char* ssid = "Indisponivel";
+const char* password = "naotemsenha";
 
 // variaveis de conexão MQTT
 const char* mqtt_server = "test.mosquitto.org";//"broker.mqtt-dashboard.com";
